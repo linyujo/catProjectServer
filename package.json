@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"license": "MIT",
 	"dependencies": {
-		"axios": "^0.17.1",
+		"axios": "^0.21.1",
 		"babel-cli": "6.26.0",
 		"babel-preset-env": "1.6.0",
 		"console-stamp": "^0.2.6",
